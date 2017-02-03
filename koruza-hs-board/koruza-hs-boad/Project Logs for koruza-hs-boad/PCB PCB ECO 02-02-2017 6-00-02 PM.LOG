@@ -1,0 +1,10 @@
+Added Component: Designator=P2(HDR1X7)
+Added Pin To Net: NetName=TX_FAULT_1 Pin=P2-1
+Added Pin To Net: NetName=TX_DISABLE_1 Pin=P2-2
+Added Pin To Net: NetName=MOD_DEF2_1 Pin=P2-3
+Added Pin To Net: NetName=MOD_DEF1_1 Pin=P2-4
+Added Pin To Net: NetName=MOD_DEF0_1 Pin=P2-5
+Added Pin To Net: NetName=RATE_SEL_1 Pin=P2-6
+Added Pin To Net: NetName=LOS_1 Pin=P2-7
+Added Member To Class: ClassName=PAGE2 - SFP CONNECTORS, POWER Member=Component P2 Header 7
+Added Room: Name=PAGE2 - SFP CONNECTORS, POWER

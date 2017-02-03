@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB.PcbDoc   02/03/2017  1:29:43 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB.TXT
+EIA File   : PCB.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      15mil (0.38mm)                                            Round             47        PTH        8.45inch (214.75mm)
+T2      15mil (0.381mm)                                           Round             13        PTH        0.87inch (22.13mm)
+T3      28mil (0.711mm)                                           Round             50        PTH        4.47inch (113.60mm)
+T4      35mil (0.9mm)                                             Round             10        PTH        0.90inch (22.86mm)
+T5      41mil (1.05mm)                                            Round             17        PTH        4.25inch (108.06mm)
+T6      42mil (1.067mm)                                           Round             4         PTH        1.84inch (46.81mm)
+T7      61mil (1.55mm)                                            Round             2         PTH        0.38inch (9.63mm)
+T8      79mil (2mm)                                               Round             2         PTH        0.80inch (20.38mm)
+T9      121mil (3.073mm)                                          Round             1         PTH        0.00inch (0.00mm)
+T10     126mil (3.2mm)                                            Round             1         PTH        0.00inch (0.00mm)
+T11     138mil (3.5mm)                                            Round             2         PTH        0.70inch (17.67mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              149
+
+Total Processing Time (hh:mm:ss) : 00:00:00

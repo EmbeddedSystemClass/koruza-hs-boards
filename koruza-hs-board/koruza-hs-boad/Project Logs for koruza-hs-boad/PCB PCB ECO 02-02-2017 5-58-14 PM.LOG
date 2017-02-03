@@ -1,0 +1,17 @@
+Added Component: Designator=CON2(SMD coaxial connector)
+Added Component: Designator=CON3(SMD coaxial connector)
+Added Component: Designator=CON4(SMD coaxial connector)
+Added Component: Designator=CON5(SMD coaxial connector)
+Added Pin To Net: NetName=RD_N Pin=CON2-1
+Added Pin To Net: NetName=GND Pin=CON2-2
+Added Pin To Net: NetName=RD_P Pin=CON3-1
+Added Pin To Net: NetName=GND Pin=CON3-2
+Added Pin To Net: NetName=TD_P Pin=CON4-1
+Added Pin To Net: NetName=GND Pin=CON4-2
+Added Pin To Net: NetName=TD_N Pin=CON5-1
+Added Pin To Net: NetName=GND Pin=CON5-2
+Added Member To Class: ClassName=PAGE2 - SFP CONNECTORS, POWER Member=Component CON2 Coaxial pcb connection
+Added Member To Class: ClassName=PAGE2 - SFP CONNECTORS, POWER Member=Component CON3 Coaxial pcb connection
+Added Member To Class: ClassName=PAGE2 - SFP CONNECTORS, POWER Member=Component CON4 Coaxial pcb connection
+Added Member To Class: ClassName=PAGE2 - SFP CONNECTORS, POWER Member=Component CON5 Coaxial pcb connection
+Added Room: Name=PAGE2 - SFP CONNECTORS, POWER

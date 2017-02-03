@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PCB_Flex.PcbDoc   28.11.2016  16:04:12
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_Flex.TXT
+EIA File   : PCB_Flex.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        15mil (0.381mm)          Round          769              35.47 Inch (901.06 mm)
+T2        61.02mil (1.54991mm)     Round          2                0.38 Inch (9.63 mm)
+T3        78.74mil (2mm)           Round          2                0.80 Inch (20.38 mm)
+---------------------------------------------------------------------------
+Totals                                            773              36.66 Inch (931.07 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

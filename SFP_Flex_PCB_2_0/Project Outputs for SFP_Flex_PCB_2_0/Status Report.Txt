@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SFP_Flex_PCB_2_0.PrjPcb]
+   Generated File[PCB_Flex.TXT]
+   Generated File[PCB_Flex.DRL]
+   Generated File[PCB_Flex.LDP]
+   Generated File[PCB_Flex.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 1:34:22 PM On 02/03/2017

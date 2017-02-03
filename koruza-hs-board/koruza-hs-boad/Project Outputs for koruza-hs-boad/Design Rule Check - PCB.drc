@@ -1,0 +1,79 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\vojislav\Documents\koruza-hs-board\koruza-hs-boad\PCB.PcbDoc
+Date     : 02/03/2017
+Time     : 11:08:38 AM
+
+Processing Rule : Clearance Constraint (Gap=10mil) ((InDifferentialPairClass('All Differential Pairs'))),(IsPad and InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) ((InDifferentialPairClass('All Differential Pairs')) and not (InPadClass('All Pads'))),(InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (Disabled)(InNamedPolygon('')),(not InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (InPolygon),(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=78.74mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=10mil) (InDifferentialPairClass('CAMERA_DIFF'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=2) (All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=11.811mil) (Max=196.85mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=1.968mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (7.601mil < 10mil) Between Text "R17" (-511.693mil,984.094mil) on Top Overlay And Track (-430.63mil,1035.315mil)(-422.756mil,1035.315mil) on Top Overlay Silk Text to Silk Clearance [7.601mil]
+   Violation between Silk To Silk Clearance Constraint: (8.323mil < 10mil) Between Text "L4" (-481.693mil,1254.094mil) on Top Overlay And Track (-426.693mil,1190.472mil)(-426.693mil,1237.716mil) on Top Overlay Silk Text to Silk Clearance [8.323mil]
+   Violation between Silk To Silk Clearance Constraint: (1.802mil < 10mil) Between Text "5" (18.307mil,849.094mil) on Top Overlay And Track (-151.693mil,839.094mil)(48.307mil,839.094mil) on Top Overlay Silk Text to Silk Clearance [1.802mil]
+   Violation between Silk To Silk Clearance Constraint: (1.802mil < 10mil) Between Text "10" (-81.693mil,849.094mil) on Top Overlay And Track (-151.693mil,839.094mil)(48.307mil,839.094mil) on Top Overlay Silk Text to Silk Clearance [1.802mil]
+   Violation between Silk To Silk Clearance Constraint: (9.668mil < 10mil) Between Text "R1" (-386.693mil,479.094mil) on Top Overlay And Track (-363.661mil,531.299mil)(-359.724mil,531.299mil) on Top Overlay Silk Text to Silk Clearance [9.668mil]
+   Violation between Silk To Silk Clearance Constraint: (9.006mil < 10mil) Between Text "R7" (-651.693mil,999.094mil) on Top Overlay And Track (-620.118mil,981.889mil)(-616.181mil,981.889mil) on Top Overlay Silk Text to Silk Clearance [9.006mil]
+   Violation between Silk To Silk Clearance Constraint: (9.739mil < 10mil) Between Text "R9" (-391.693mil,629.094mil) on Top Overlay And Track (-363.661mil,611.889mil)(-359.724mil,611.889mil) on Top Overlay Silk Text to Silk Clearance [9.739mil]
+   Violation between Silk To Silk Clearance Constraint: (9.343mil < 10mil) Between Text "R17" (-511.693mil,984.094mil) on Top Overlay And Track (-453.661mil,966.889mil)(-449.724mil,966.889mil) on Top Overlay Silk Text to Silk Clearance [9.343mil]
+   Violation between Silk To Silk Clearance Constraint: (6.056mil < 10mil) Between Text "R11" (-691.693mil,1459.094mil) on Top Overlay And Text "C8" (-641.693mil,1509.094mil) on Top Overlay Silk Text to Silk Clearance [6.056mil]
+   Violation between Silk To Silk Clearance Constraint: (8.142mil < 10mil) Between Text "R16" (-316.693mil,374.094mil) on Top Overlay And Text "R1" (-386.693mil,479.094mil) on Top Overlay Silk Text to Silk Clearance [8.142mil]
+   Violation between Silk To Silk Clearance Constraint: (6.056mil < 10mil) Between Text "R10" (-731.693mil,149.094mil) on Top Overlay And Text "R2" (-731.693mil,199.094mil) on Top Overlay Silk Text to Silk Clearance [6.056mil]
+   Violation between Silk To Silk Clearance Constraint: (6.056mil < 10mil) Between Text "R19" (-731.693mil,249.094mil) on Top Overlay And Text "R2" (-731.693mil,199.094mil) on Top Overlay Silk Text to Silk Clearance [6.056mil]
+   Violation between Silk To Silk Clearance Constraint: (7.692mil < 10mil) Between Text "R4" (-641.693mil,1344.094mil) on Top Overlay And Text "R3" (-691.693mil,1379.094mil) on Top Overlay Silk Text to Silk Clearance [7.692mil]
+   Violation between Silk To Silk Clearance Constraint: (6.056mil < 10mil) Between Text "R12" (-691.693mil,1269.094mil) on Top Overlay And Text "R4" (-641.693mil,1344.094mil) on Top Overlay Silk Text to Silk Clearance [6.056mil]
+   Violation between Silk To Silk Clearance Constraint: (6.056mil < 10mil) Between Text "R15" (-261.693mil,374.094mil) on Top Overlay And Text "R13" (-211.693mil,374.094mil) on Top Overlay Silk Text to Silk Clearance [6.056mil]
+   Violation between Silk To Silk Clearance Constraint: (6.056mil < 10mil) Between Text "R22" (-731.693mil,349.094mil) on Top Overlay And Text "R14" (-731.693mil,299.094mil) on Top Overlay Silk Text to Silk Clearance [6.056mil]
+   Violation between Silk To Silk Clearance Constraint: (6.056mil < 10mil) Between Text "R19" (-731.693mil,249.094mil) on Top Overlay And Text "R14" (-731.693mil,299.094mil) on Top Overlay Silk Text to Silk Clearance [6.056mil]
+Rule Violations :17
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+
+Violations Detected : 17
+Time Elapsed        : 00:00:01

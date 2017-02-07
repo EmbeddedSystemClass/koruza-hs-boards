@@ -1,2 +1,2 @@
-Layer Pairs Export File for PCB: C:\Users\vojis\Documents\koruza\SFP_Flex_PCB_2_0\PCB_Flex.PcbDoc
-LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_flex.txt|LayerPairs=gtl,gbl
+Layer Pairs Export File for PCB: C:\Users\vojislav\Documents\koruza-hs-boards\SFP_Flex_PCB_2_0\PCB_Flex.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_flex.txt|DrillLayers=gtl,gbl

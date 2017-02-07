@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: PCB_Flex.PcbDoc   02/03/2017  1:34:22 PM
+NCDrill File Report For: PCB_Flex.PcbDoc   02/07/2017  10:41:08 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,10 +8,11 @@ EIA File   : PCB_Flex.DRL
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      15mil (0.381mm)                                           Round             769       PTH        36.11inch (917.25mm)
-T2      61mil (1.55mm)                                            Round             2         PTH        0.38inch (9.63mm)
-T3      79mil (2mm)                                               Round             2         PTH        0.80inch (20.38mm)
+T1      15mil (0.381mm)                                           Round             40        PTH        2.25inch (57.03mm)
+T2      28mil (0.711mm)                                           Round             424       PTH        33.57inch (852.58mm)
+T3      61mil (1.55mm)                                            Round             2         PTH        0.38inch (9.63mm)
+T4      79mil (2mm)                                               Round             2         PTH        0.80inch (20.38mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              773
+Totals                                                                              468
 
 Total Processing Time (hh:mm:ss) : 00:00:00

@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for SFP_Flex_PCB_2_0
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -175,138 +175,70 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\Design Rule Check - PCB_Flex.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\NC Drill\PCB_Flex.DRL
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\PCB_Flex.DRL
 DItemRevisionGUID=
 
-[GeneratedDocument4]
-DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\NC Drill\PCB_Flex.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\PCB_Flex.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument6]
-DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\Gerber\PCB_Flex.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\PCB_Flex.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument8]
-DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\Gerber\PCB_Flex.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument9]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\PCB_Flex.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument10]
-DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\Gerber\PCB_Flex.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument11]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\PCB_Flex.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument12]
-DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\Gerber\PCB_Flex.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\PCB_Flex.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument14]
-DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\Gerber\PCB_Flex.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument15]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\PCB_Flex.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument16]
-DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\Gerber\PCB_Flex.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument17]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\PCB_Flex.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\PCB_Flex.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument19]
-DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\Gerber\PCB_Flex.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument20]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\PCB_Flex.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument21]
-DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\Gerber\PCB_Flex.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument22]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\PCB_Flex.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument23]
-DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\Gerber\PCB_Flex.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument24]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\PCB_Flex.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument25]
-DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\Gerber\PCB_Flex.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument26]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\PCB_Flex.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument27]
-DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\NC Drill\PCB_Flex.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument28]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\PCB_Flex.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument29]
-DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\Gerber\PCB_Flex.REP
-DItemRevisionGUID=
-
-[GeneratedDocument30]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\PCB_Flex.REP
 DItemRevisionGUID=
 
-[GeneratedDocument31]
-DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\Gerber\PCB_Flex.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument32]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\PCB_Flex.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument33]
-DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\NC Drill\PCB_Flex.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument34]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for SFP_Flex_PCB_2_0\PCB_Flex.TXT
 DItemRevisionGUID=
 
@@ -320,7 +252,7 @@ Variant=[No Variations]
 OutputJobsCount=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for SFP_Flex_PCB_2_0
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -599,7 +531,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=\\http://192.168.1.1:631\printserver
+TargetPrinter=Microsoft XPS Document Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Plane
 OutputName1=Power-Plane Prints
